@@ -1,0 +1,4 @@
+additionalIntegrity:
+        - SourceSpace/hmi_plugins/WidgetAreaManager/kanzi/bin/high/WidgetAreaManager.kzb, resources/dependencies/sdcard/hmi/widgetareamanager/ic/
+        - SourceSpace/hmi_plugins/WidgetAreaManager/kanzi/bin/hud/9x3/WidgetAreaManager.kzb, resources/dependencies/sdcard/hmi/widgetareamanager/ic/
+        - SourceSpace/hmi_plugins/SubinteractionManager/kanzi/bin/*.kzb, resources/dependencies/sdcard/hmi/
